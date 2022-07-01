@@ -80,4 +80,14 @@ body{
     margin-top: 20px;
     color: #3fefef; filter: drop-shadow(0 0 20px
     #3fefef) drop-shadow(0 0 60px #3fefef);
+    animation: animate_text 0.5s steps(1) infinite;
+}
+
+@keyframes animate_text{
+    0%,100%{
+        opacity:0;
+    }
+    50%{
+        opacity: 1;
+    }
 }
