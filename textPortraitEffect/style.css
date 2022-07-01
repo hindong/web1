@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&family=Nanum+Pen+Script&display=swap');
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Hi Melody', cursive;;    
+}
+section{
+    height: 100vh;
+    overflow: hidden;
+    background: #000;
+}
+p{
+    position: relative;
+    font-size: 1.5em;
+    letter-spacing: -0.15em;
+    line-height: 0.7em;
+    background: url('terminator2.png'),url('terminator2.png');
+    background-blend-mode:color-dodge;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-clip: text;
+    color: transparent;
+}
