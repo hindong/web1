@@ -1,1 +1,1 @@
-<h1>js code style.</h1>
+<h1>Vanilla JS.</h1>
