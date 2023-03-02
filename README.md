@@ -1,3 +1,3 @@
-<h1>Vanilla JS.</h1>
+<h3>Hello! Vanilla JS.</h3>
 
 ## 
